@@ -10,9 +10,11 @@
 ---
 
 ### :man_technologist: Обо мне:
-Я java-разработчик. Основной стек технологий которыми я владею: Java 8/17, использование Spring Framework (включая Spring Web, Spring MVC, Spring Security, Spring Data, Spring Boot), Hibernate для работы с базами данных PostgreSQL. Инструменты разработки: Maven, Swagger и SoapUI. В настоящий момент изучаю Микросервисную архитектуру. Выбор IT-сферы обусловлен желанием построить свою профессиональную карьеру на работе, которая приносит удовлетворение и востребована в современном мире. Этот выбор мотивирован жаждой новых знаний, стремлением к росту, реализацией своей мечты и материальной стабильности. Все эти аспекты сподвигли меня изучать Java.
+Я java-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Основной стек технологий которыми я владею: Java 8/17, использование Spring Framework (включая Spring Web, Spring MVC, Spring Security, Spring Data, Spring Boot), Hibernate для работы с базами данных PostgreSQL. Инструменты разработки: Maven, Swagger и SoapUI. В настоящий момент изучаю Микросервисную архитектуру. Выбор IT-сферы обусловлен желанием построить свою профессиональную карьеру на работе, которая приносит удовлетворение и востребована в современном мире. Этот выбор мотивирован жаждой новых знаний, стремлением к росту, реализацией своей мечты и материальной стабильности. Все эти аспекты сподвигли меня изучать Java.
 
- <img alt="Coder GIF" width="600" height="300" src="https://magiccopy.xyz/assets/images/hadder.gif"/>
+ <div id="badges" align="center">
+   <img alt="Coder GIF" width="500" height="350" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
+ </div>
  
 - :seedling: С отличием окончил Институт ВИАКАДЕМИЯ по направлению Enterprise Java-разработчик!
 - :telescope: С отличием окончил стажировку в TopJava по программе Enterprise Java-разработчик!
