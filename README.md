@@ -12,10 +12,8 @@
 ### :man_technologist: Обо мне:
 Я java-разработчик. Основной стек технологий которыми я владею: Java 8/17, использование Spring Framework (включая Spring Web, Spring MVC, Spring Security, Spring Data, Spring Boot), Hibernate для работы с базами данных PostgreSQL. Инструменты разработки: Maven, Swagger и SoapUI. В настоящий момент изучаю Микросервисную архитектуру. Выбор IT-сферы обусловлен желанием построить свою профессиональную карьеру на работе, которая приносит удовлетворение и востребована в современном мире. Этот выбор мотивирован жаждой новых знаний, стремлением к росту, реализацией своей мечты и материальной стабильности. Все эти аспекты сподвигли меня изучать Java.
 
-<div id="header" align="center">
- <img width="600" src="https://i.gifer.com/S0S.gif" alt="snake"/>
-</div>
-
+ <img alt="Coder GIF" width="600" height="300" src="https://magiccopy.xyz/assets/images/hadder.gif"/>
+ 
 - :seedling: С отличием окончил Институт ВИАКАДЕМИЯ по направлению Enterprise Java-разработчик!
 - :telescope: С отличием окончил стажировку в TopJava по программе Enterprise Java-разработчик!
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/staymix8) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:staszubov199530@gmail.com)
