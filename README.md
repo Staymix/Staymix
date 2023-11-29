@@ -10,7 +10,8 @@
 ---
 
 ### :man_technologist: Обо мне:
-Я java-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Основной стек технологий которыми я владею: Java 8/17, использование Spring Framework (включая Spring Web, Spring MVC, Spring Security, Spring Data, Spring Boot), Hibernate для работы с базами данных PostgreSQL. Инструменты разработки: Maven, Swagger и SoapUI. В настоящий момент изучаю Микросервисную архитектуру. Выбор IT-сферы обусловлен желанием построить свою профессиональную карьеру на работе, которая приносит удовлетворение и востребована в современном мире. Этот выбор мотивирован жаждой новых знаний, стремлением к росту, реализацией своей мечты и материальной стабильности. Все эти аспекты сподвигли меня изучать Java.
+Я java-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Основной стек технологий которыми я владею: Java, Spring Framework, Hibernate для работы с базами данных PostgreSQL/MySQL. Инструменты разработки: Maven, Gradel, Swagger и Postman. 
+Выбор IT-сферы обусловлен желанием построить свою профессиональную карьеру на работе, которая приносит удовлетворение и востребована в современном мире. Этот выбор мотивирован жаждой новых знаний, стремлением к росту, реализацией своей мечты и материальной стабильности. Все эти аспекты сподвигли меня изучать Java.
 
  <div id="badges" align="center">
    <img alt="Coder GIF" width="500" height="350" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
@@ -34,7 +35,7 @@
     <!-- <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a> -->
-    <a href="https://vk.com/staszubov199530" target="_blank">
+    <a href="https://vk.com/f1ll_zzz" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
     <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
@@ -50,11 +51,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
 </div>
 
 ---
 
+### Codewars статистика:
+![image](https://www.codewars.com/users/Staymix/badges/large)
+
+---
+
 ### :fire: Статистика :
-https://www.codewars.com/users/Staymix/badges/large
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Staymix&theme=transparent)](https://git.io/streak-stats)
