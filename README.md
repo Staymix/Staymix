@@ -21,7 +21,7 @@
 ---
 
 ### Обо мне:
-Я Java backend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+Я Java backend разработчик<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" width="30px"> c опытом работы более 1 года
 - :seedling: С отличием окончил Институт ВИАКАДЕМИЯ по направлению Enterprise Java-разработчик!
 - :telescope: С отличием завершил стажировку в роли Java-разработчика!
 ---
