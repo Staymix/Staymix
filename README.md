@@ -52,9 +52,9 @@
 Мой собственный проект написанный с нуля с REST API на стеке: JDK 17, Spring Boot 3, Lombok, H2, Caffeine Cache, Swagger/OpenAPI 3.0. 
 Разработан в соответствии с требованиями технического задания.
 
-- [Приложение "Подсчет калорий"](https://github.com/Staymix/topjava) 
-Полнофункциональное Spring 5/JPA enterprise-приложения (бекэнд+фронтенд) c авторизацией и правами доступа на основе ролей на Java стеке: Maven, Spring MVC, Security, JPA(Hibernate), REST(Jackson), JUnit 5, Bootstrap (css,js), datatables, jQuery + plugins, Java 8 Stream and Time API, сохранением в базах данных PostgreSQL и HSQLDB.
+- [Веб-Приложение "Подсчет калорий"](https://github.com/Staymix/topjava) 
+Полнофункциональное Spring 5/JPA enterprise-приложения c авторизацией и правами доступа на основе ролей на Java стеке: Maven, Spring MVC, Security, JPA(Hibernate), REST(Jackson), JUnit 5, Bootstrap (css,js), datatables, jQuery + plugins, Java 8 Stream and Time API, сохранением в базах данных PostgreSQL и HSQLDB.
 
 > ### Java:
-- [Приложение "База данных резюме"](https://github.com/Staymix/basejava) 
+- [Веб-Приложение "База данных резюме"](https://github.com/Staymix/basejava) 
 Объектная модель, коллекции, шаблоны проектирования, система ввода-вывода, работа с файлами, сериализация, работа с XML, JSON, SQL, работа с базой данных (PostgreSQL), сервлеты, JSP/JSTL, веб-контейнер Tomcat, HTML, модульные тесты JUnit, Logging.
