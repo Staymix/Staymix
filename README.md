@@ -49,8 +49,7 @@
 ### 📘 Проекты:
 > ### Spring framework:
 - [Приложение "Голосование за рестораны"](https://github.com/Staymix/RestaurantVoting) 
-Мой собственный проект написанный с нуля с REST API на стеке: JDK 17, Spring Boot 3, Lombok, H2, Caffeine Cache, Swagger/OpenAPI 3.0. 
-Разработан в соответствии с требованиями технического задания.
+Мой собственный проект написанный с нуля с REST API на стеке: JDK 17, Spring Boot, Spring MVC, Spring Data, Spring Security, Hibernate, Lombok, H2, Caffeine Cache, Swagger/OpenAPI 3.0.
 
 - [Веб-Приложение "Подсчет калорий"](https://github.com/Staymix/topjava) 
 Полнофункциональное Spring 5/JPA enterprise-приложения c авторизацией и правами доступа на основе ролей на Java стеке: Maven, Spring MVC, Security, JPA(Hibernate), REST(Jackson), JUnit 5, Bootstrap (css,js), datatables, jQuery + plugins, Java 8 Stream and Time API, сохранением в базах данных PostgreSQL и HSQLDB.
