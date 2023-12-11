@@ -21,12 +21,12 @@
 ---
 
 ### Обо мне:
-Я Java backend разработчик<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" width="30px"> c опытом работы более 1 года
-- :seedling: С отличием окончил Институт ВИАКАДЕМИЯ по направлению Enterprise Java-разработчик!
-- :telescope: С отличием завершил стажировку в роли Java-разработчика!
+Я Java backend разработчик <img src="https://ltdfoto.ru/images/2023/12/11/icons8-RAZRABOTCIK.gif" width="20px"> c опытом работы более 1 года
+- <img src="https://ltdfoto.ru/images/2023/12/11/icons8-STUDENT-100.png" width="30px"> С отличием окончил Институт ВИАКАДЕМИЯ по направлению Enterprise Java-разработчик!
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" width="30px"> С отличием завершил стажировку в роли Java-разработчика!
 ---
 
-### 💻 Мой стек технологий:
+### <img src="https://ltdfoto.ru/images/2023/12/11/icons8-ADMINISTRIROVANIE.gif" width="30px"> Мой стек технологий:
 ![Java](https://img.shields.io/badge/Java-1E90FF?style=for-the-badge&logo=openjdk&logoColor=FF0000)
 ![Spring](https://img.shields.io/badge/Spring-32CD32?style=for-the-badge&logo=spring&logoColor=FFFFFF)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-32CD32?style=for-the-badge&logo=springboot&logoColor=FFFFFF)
@@ -39,14 +39,14 @@
 
 ---
 
-### 🛠 Инструменты:
+### <img src="https://ltdfoto.ru/images/2023/12/11/icons8-OBSLUZIVANIE.gif" width="30px"> Инструменты:
 ![Intellijidea](https://img.shields.io/badge/Intellij_idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff)
 
 ---
 
-### 📘 Проекты:
+### <img src="https://ltdfoto.ru/images/2023/12/11/icons8-PORTFEL.gif" width="30px"> Проекты:
 > ### Spring framework:
 - [Приложение "Голосование за рестораны"](https://github.com/Staymix/RestaurantVoting) 
 Мой собственный проект написанный с нуля с REST API на стеке: JDK 17, Spring Boot, Spring MVC, Spring Data, Spring Security, Hibernate, Lombok, H2, Caffeine Cache, Swagger/OpenAPI 3.0.
@@ -54,6 +54,6 @@
 - [Веб-Приложение "Подсчет калорий"](https://github.com/Staymix/topjava) 
 Полнофункциональное Spring 5/JPA enterprise-приложения c авторизацией и правами доступа на основе ролей на Java стеке: Maven, Spring MVC, Security, JPA(Hibernate), REST(Jackson), JUnit 5, Bootstrap (css,js), datatables, jQuery + plugins, Java 8 Stream and Time API, сохранением в базах данных PostgreSQL и HSQLDB.
 
-> ### Java:
+> ### Java<img src="https://ltdfoto.ru/images/2023/12/11/icons8-LOGOTIP-java-coffee-cup.gif" width="30px">:
 - [Веб-Приложение "База данных резюме"](https://github.com/Staymix/basejava) 
 Объектная модель, коллекции, шаблоны проектирования, система ввода-вывода, работа с файлами, сериализация, работа с XML, JSON, SQL, работа с базой данных (PostgreSQL), сервлеты, JSP/JSTL, веб-контейнер Tomcat, HTML, модульные тесты JUnit, Logging.
