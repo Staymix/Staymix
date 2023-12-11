@@ -21,7 +21,7 @@
 ---
 
 ### Обо мне:
-Я Java backend разработчик <img src="https://ltdfoto.ru/images/2023/12/11/icons8-RAZRABOTCIK.gif" width="20px"> c опытом работы более 1 года
+Я Java backend разработчик <img src="https://ltdfoto.ru/images/2023/12/11/icons8-RAZRABOTCIK.gif" width="20px"> опыт работы более 1 года
 - <img src="https://ltdfoto.ru/images/2023/12/11/icons8-STUDENT-100.png" width="30px"> С отличием окончил Институт ВИАКАДЕМИЯ по направлению Enterprise Java-разработчик!
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" width="30px"> С отличием завершил стажировку в роли Java-разработчика!
 ---
@@ -47,7 +47,7 @@
 ---
 
 ### <img src="https://ltdfoto.ru/images/2023/12/11/icons8-PORTFEL.gif" width="30px"> Проекты:
-> ### Spring framework:
+> ### Spring framework<img src="https://ltdfoto.ru/images/2023/12/11/icons8-LOGOTIP-spring-96.png" width="30px">:
 - [Приложение "Голосование за рестораны"](https://github.com/Staymix/RestaurantVoting) 
 Мой собственный проект написанный с нуля с REST API на стеке: JDK 17, Spring Boot, Spring MVC, Spring Data, Spring Security, Hibernate, Lombok, H2, Caffeine Cache, Swagger/OpenAPI 3.0.
 
