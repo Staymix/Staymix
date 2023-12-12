@@ -57,3 +57,11 @@
 > ### Java<img src="https://ltdfoto.ru/images/2023/12/11/icons8-LOGOTIP-java-coffee-cup.gif" width="30px">:
 - [Веб-Приложение "База данных резюме"](https://github.com/Staymix/basejava) 
 Объектная модель, коллекции, шаблоны проектирования, система ввода-вывода, работа с файлами, сериализация, работа с XML, JSON, SQL, работа с базой данных (PostgreSQL), сервлеты, JSP/JSTL, веб-контейнер Tomcat, HTML, модульные тесты JUnit, Logging.
+
+---
+
+### <img src="https://ltdfoto.ru/images/2023/12/12/icons8-logic-64.png" width="30px"> Алгоритмы:
+
+### [LeetCode](https://github.com/Staymix/LeetCode) <img src="https://ltdfoto.ru/images/2023/12/12/icons8-level-up-your-coding-skills-and-quickly-land-a-job-96.png" width="30px">
+
+### [CodeWars](https://www.codewars.com/users/Staymix) <img src="https://www.codewars.com/users/Staymix/badges/small" alt="CodeWars Badge"/>
